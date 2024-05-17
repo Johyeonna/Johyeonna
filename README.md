@@ -12,6 +12,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Johyeonna)](https://github.com/anuraghazra/github-readme-stats)<br>
 
+<h2>:sparkles: Skills</h2>
+
+![hn](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![hn](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![hn](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![hn](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![hn](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)<br>
+
 <h2>:hatching_chick: SNS & Portfolio</h2>
 
 <a href="https://www.instagram.com/mimi_ru_22?igsh=MTJxcjV4eXMza3B5Yg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
